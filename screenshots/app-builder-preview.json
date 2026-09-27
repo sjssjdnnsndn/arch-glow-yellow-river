@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Deeper",
+      "hasCanvas": false,
+      "bodyTextLen": 310,
+      "bodyTextHash": "cf72f5dc11877998f0eae728ca1e8426d0fa7d94f95ac7f27357ec7edac7332c",
+      "bodyTextPrefix": "Deeper Diskwala network intercept Capture download + stream URLs",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Deeper",
+      "hasCanvas": false,
+      "bodyTextLen": 261,
+      "bodyTextHash": "edfc764b10fea018e302ce1acab26827d89564a63f66bdd896f095ee836a570f",
+      "bodyTextPrefix": "Deeper Diskwala network intercept Diskwala URL Intercepting Stre",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

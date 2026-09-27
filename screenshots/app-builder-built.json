@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Deeper",
+      "hasCanvas": false,
+      "bodyTextLen": 302,
+      "bodyTextHash": "d05b5b0ebb3f5cd99409ce79fddc77b53fa53222906291374cc7e5acdca0d835",
+      "bodyTextPrefix": "Deeper Diskwala network intercept Capture download + stream URLs",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Deeper",
+      "hasCanvas": false,
+      "bodyTextLen": 253,
+      "bodyTextHash": "1d9aaf988e3fb862eb8fb77b7ef4b74c826d1218124e56220f6b5f62f29b533e",
+      "bodyTextPrefix": "Deeper Diskwala network intercept Diskwala URL Intercept Stream ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
